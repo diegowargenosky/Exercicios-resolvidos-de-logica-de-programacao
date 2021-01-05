@@ -15,7 +15,7 @@ System.out.print("Digite a largura do terreno: ");
   largura = sc.nextDouble();
 
 System.out.print("Digite o comprimento do terreno: ");
-  comrpimento = sc.nextDouble();
+  comprimento = sc.nextDouble();
 
 System.out.print("Digite o valor do metro quadrado: ");
   metquadrado = sc.nextDouble();
