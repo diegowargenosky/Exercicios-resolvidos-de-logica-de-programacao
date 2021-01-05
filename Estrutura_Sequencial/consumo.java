@@ -21,6 +21,8 @@ System.out.print("Combustível gasto: ");
 
 consumoMedio = (double) distancia / combustivelGasto;
 System.out.print("Consumo medio = " + String.format("%.3f", consumoMedio));
+          
+ sc.close();
 
         
     }
