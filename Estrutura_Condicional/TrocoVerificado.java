@@ -28,6 +28,8 @@ else {
 faltante = qtdeComprada * precoUnitario - dinheiroRecebido;
 System.out.print("DINHEIRO INSUFICIENTE. FALTAM " + String.format("%.2f", faltante) + " REAIS");
   }
+        
+    sc.close();
 
 
         
