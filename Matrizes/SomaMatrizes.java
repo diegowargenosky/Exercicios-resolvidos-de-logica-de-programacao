@@ -4,6 +4,10 @@ public class SomaMatrizes {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+	    
+       // Fazer um programa para ler duas matrizes de números inteiros A e B, contendo de N linhas e M colunas cada.
+       // Depois, gerar uma terceira matriz C onde cada elemento desta é a soma dos elementos correspondentes das matrizes originais.
+       // Imprimir na tela a matriz gerada.
 
         System.out.print("Quantas linhas vai ter cada matriz? ");
 		  int N = sc.nextInt();
